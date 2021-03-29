@@ -1,0 +1,15 @@
+.card{
+    background-color: aquamarine;
+    line-height: 12px;  
+    border-radius: 10px;
+    box-shadow: 0 2px 5px rgb(233, 233, 233);  
+}
+
+.card img{
+    margin: auto;
+    display: block;
+}
+
+.card p{
+    text-align: center;
+}
